@@ -1,3 +1,127 @@
+/*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(/images/PAG1header-shapes\ mobile.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 h1 {
-    color: black;
+    height: 937,5%;
+    width: 2043,75%;
+    top: 150px;
+    left: 24px;
+    right: 24px;
+    padding-left: 10px;
+
+    position: absolute;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    size: 250%;
+    line-height: 52px;
+    color: #172b4d;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+p {
+    height: 937,5%;
+    width: 2043,75%;
+    top: 320px;
+    left: 24px;
+    right: 24px;
+    padding-left: 10px;
+
+    position: absolute;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.37;
+    display: flex;
+    align-items: center;
+    size: 40px;
+
+    color: #344563;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+h2 {
+    height: 24px;
+    width: 180px;
+    top: 470px;
+    left: 34px;
+    right: 24px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    position: absolute;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.37;
+    display: flex;
+    align-items: center;
+    size: 40px;
+
+    color: #7F8CFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.socialMedia {
+    display: flex;
+    width: 170.17px;
+    height: 20px;
+    gap: 1.5rem;
+    padding-top: 470px;
+    list-style: none;
+    padding-left: 30px;
+}
+
+nav {
+    color: #6070FF;
+    font-size: 22px;
+    line-height: 20px;
+    font-weight: 999;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.hamburguerIcon {
+    width: 218,75%;
+    height: 93,75%;
 }
