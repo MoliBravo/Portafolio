@@ -86,7 +86,7 @@ Clone this repository to your desired folder:
 
 Install this project with:
  ```
- cd HelloMicroverse
+ cd Portafolio
  npm install
 ```
 ### Usage
