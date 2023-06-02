@@ -40,23 +40,16 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>CSS</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>HTML</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
   </ul>
 </details>
 
@@ -135,7 +128,7 @@ If you like this project please let me know
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my code reviewer Aaskah Verma for for his valuable help.
+I would like to thank my code reviewer Aaskah Verma for his valuable help.
 
 <p aling="right">(<a href="#readme-top">back to top</a>)</p>
 
